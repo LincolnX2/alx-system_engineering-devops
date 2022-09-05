@@ -1,2 +1,2 @@
 #!/bin/bash
-pr “Hello, World” /n
+pr 0-hello_world /n
