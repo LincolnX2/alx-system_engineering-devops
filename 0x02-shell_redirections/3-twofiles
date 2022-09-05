@@ -1,2 +1,2 @@
 #!/bin/bash
-diff -rq /etc/passwd /etc/hosts   /n
+diff -rq /etc/passwd /etc/hosts
