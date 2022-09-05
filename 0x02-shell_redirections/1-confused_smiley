@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l | less 1-confused_smiley  /n
+ls -l | less 1-confused_smiley
