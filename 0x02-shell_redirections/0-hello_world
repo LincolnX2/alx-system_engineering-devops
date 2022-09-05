@@ -1,2 +1,2 @@
 #!/bin/bash
-touch “Hello, World” /n
+lpr “Hello, World” /n
