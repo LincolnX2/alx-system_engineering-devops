@@ -1,2 +1,2 @@
 #!/bin/bash
-"shell variable expaansion"
+"shell variables expaansions"
