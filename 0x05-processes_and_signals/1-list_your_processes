@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Display list of curruent running proc
+
+ps axuf

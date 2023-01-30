@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Display line containing bash word
+# shellcheck disable=SC2009
+ps axuf | grep -e "bash"
