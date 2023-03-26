@@ -1,5 +1,5 @@
 # Creates a file /tmp/holberton with certain permissions, content, owner/group
-file { '/tmp/holberton':
+file { '/tmp/school':
   ensure  => file,
   mode    => '0744',
   owner   => www-data,
