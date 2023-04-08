@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# Debugs error where sites-available/default is unlinked to site-enabled/default
+service nginx stop
+rm /etc/nginx/sites-enabled/default
+ln -s /etc/nginx/sites-available/default /etc/nginx/sites-enabled/default
+service nginx start
